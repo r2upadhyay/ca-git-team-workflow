@@ -26,5 +26,12 @@
     "title": "Wait for the Moment",
     "artist": "Vulfpeck",
     "releaseDate": "2017"
+  },
+  {
+    "id": 5,
+    "title": "Reflektor",
+    "artist": "Arcade Fire",
+    "releaseDate": "2013",
+    "lyricsFile": "reflektor.txt"
   }
 ]
