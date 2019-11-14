@@ -33,5 +33,12 @@
     "artist": "Arcade Fire",
     "releaseDate": "2013",
     "lyricsFile": "reflektor.txt"
+  },
+  {
+    "id": 6,
+    "title": "Top of the World",
+    "artist": "Christian Sucks",
+    "releaseDate": "Fall 2019",
+    "lyricsFile": "top-of-the-world.txt"
   }
 ]
