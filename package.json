@@ -1,0 +1,11 @@
+{
+  "name": "ca-git-team-workflow",
+  "version": "1.0.0",
+  "description": "## Learning Objectives - review core git concepts - understand basic productive git workflow for any development project of any team size",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
