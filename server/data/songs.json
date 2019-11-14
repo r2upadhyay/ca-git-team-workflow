@@ -26,5 +26,12 @@
     "title": "Wait for the Moment",
     "artist": "Vulfpeck",
     "releaseDate": "2017"
+  },
+  {
+    "id": 5,
+    "title": "Top of the World",
+    "artist": "Christian Sucks",
+    "releaseDate": "Fall 2019",
+    "lyricsFile": "top-of-the-world.txt"
   }
 ]
